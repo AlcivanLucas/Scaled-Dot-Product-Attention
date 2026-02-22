@@ -3,6 +3,9 @@
 ## Descrição
 Este repositório contém uma implementação do mecanismo de **Scaled Dot-Product Attention**, um componente fundamental da arquitetura Transformer, conforme descrito no artigo seminal "Attention Is All You Need" [1]. O objetivo é demonstrar a lógica de transformação das matrizes de Query (Q), Key (K) e Value (V) para calcular os pesos de atenção e a saída final, utilizando exclusivamente a biblioteca NumPy para operações de álgebra linear.
 
+## Google colab
+https://colab.research.google.com/drive/1ZUmrk1zRhYS-wVC2cfUyhzuk93wQPM9P?usp=sharing
+
 ## Como Rodar
 Para executar os testes e verificar a implementação, siga os passos abaixo:
 
